@@ -1,0 +1,10 @@
+C:\Users\totor\source\repos\linq\linq\bin\Debug\linq.exe.config
+C:\Users\totor\source\repos\linq\linq\bin\Debug\linq.exe
+C:\Users\totor\source\repos\linq\linq\bin\Debug\linq.pdb
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.Form1.resources
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.Properties.Resources.resources
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.csproj.GenerateResource.cache
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.exe
+C:\Users\totor\source\repos\linq\linq\obj\Debug\linq.pdb
