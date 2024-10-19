@@ -1,0 +1,14 @@
+C:\Users\totor\source\repos\timer\timer\bin\Debug\net8.0\timer.exe
+C:\Users\totor\source\repos\timer\timer\bin\Debug\net8.0\timer.deps.json
+C:\Users\totor\source\repos\timer\timer\bin\Debug\net8.0\timer.runtimeconfig.json
+C:\Users\totor\source\repos\timer\timer\bin\Debug\net8.0\timer.dll
+C:\Users\totor\source\repos\timer\timer\bin\Debug\net8.0\timer.pdb
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.AssemblyInfoInputs.cache
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.AssemblyInfo.cs
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.csproj.CoreCompileInputs.cache
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.dll
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\refint\timer.dll
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.pdb
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\timer.genruntimeconfig.cache
+C:\Users\totor\source\repos\timer\timer\obj\Debug\net8.0\ref\timer.dll
